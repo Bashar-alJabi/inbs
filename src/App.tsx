@@ -1,4 +1,4 @@
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, useLocation } from 'react-router-dom';
 import './App.css';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
@@ -29,6 +29,7 @@ import Loading from './components/Loading/Loading';
 import CustomCursor from './components/CustomCursor/CustomCursor';
 
 function App() {
+    const isHomepage = useLocation().pathname === '/';
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
@@ -43,12 +44,12 @@ function App() {
     return (
         <>
             <div className="hidden md:block">
-                <CustomCursor />
+                {!isHomepage && <CustomCursor />}
             </div>
             <ScrollToTop />
-            <GoUpButton />
+            {!isHomepage && <GoUpButton />}
             <div className="md:cursor-space flex flex-col min-h-screen justify-between">
-                <Header />
+                {!isHomepage && <Header />}
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/about" element={<About />} />
@@ -70,7 +71,7 @@ function App() {
                     <Route path="/terms-conditions" element={<TermsConditions />} />
                     <Route path="*" element={<NotFound />} />
                 </Routes>
-                <Footer />
+                {!isHomepage && <Footer />}
             </div>
         </>
     );
