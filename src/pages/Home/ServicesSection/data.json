@@ -1,0 +1,171 @@
+{
+    "en": {
+        "services": [
+            {
+                "id": 1,
+                "src": "/Images/servicesImg/service3.jpg",
+                "title": "Businessmen Services",
+                "description": "We provide (On Line Services) through our web Site answering all questions and clarifications of all fields.",
+                "buttonText": "Read More",
+                "url": "businessmen-services"
+            },
+            {
+                "id": 2,
+                "src": "/Images/servicesImg/service1.jpg",
+                "title": "Real Estate Services",
+                "description": "Providing reliable and comprehensive real estate brokerage, Offering specialized consultations to meet your real estate needs, Assisting in finding properties that match your budget and requirements, Facilitating sale and purchase procedures to ensure a smooth and trustworthy experience.",
+                "buttonText": "Read More",
+                "url": "real-estate-services"
+            },
+            {
+                "id": 3,
+                "src": "/Images/servicesImg/service2.jpg",
+                "title": "Website Services",
+                "description": "Designing visually appealing and user-friendly websites tailored to your needs, Developing innovative visual identities that reflect your brand, Enhancing user experience for smooth navigation and interaction.",
+                "buttonText": "Read More",
+                "url": "website-services"
+            },
+            {
+                "id": 4,
+                "src": "/Images/servicesImg/service9.jpg",
+                "title": "Typing Services",
+                "description": "Typing services of all types, regular and computerized Advertising print services and corporate publications, including seals Typing services for work, workers, immigration and passports Typing Emirates IDs, residences Renewing citizens' passports - typing car renewal forms Partnership contracts typing and certification services Copying services of all kinds, including maps of contracting companies.",
+                "buttonText": "Read More",
+                "url": "typing-services"
+            },
+            {
+                "id": 5,
+                "src": "/Images/servicesImg/service4.jpg",
+                "title": "Tourism Services",
+                "description": "Tourist visas services Arranging the necessarily visa for businessmen Limousines from and to the airport Booking hotels and hotel apartments PLeasing of tourist cars Safari and adventurous booking.",
+                "buttonText": "Read More",
+                "url": "tourism-services"
+            },
+            {
+                "id": 6,
+                "src": "/Images/servicesImg/service5.jpg",
+                "title": "Financial Services",
+                "description": "Statutory & Internal audit , Monthly accounting & outsourcing ,Accounting supervision & checking ,Accounting/ERP software consulting & implementation ,Free-zone and offshore company.",
+                "buttonText": "Read More",
+                "url": "financial-services"
+            },
+            {
+                "id": 7,
+                "src": "/Images/servicesImg/service6.jpeg",
+                "title": "Consultation",
+                "description": "Human Resource Consultation , Quantity surveying , Marketing researches , Feasibility study , Company establishment consultants , System analysis.",
+                "buttonText": "Read More",
+                "url": "consultation-services"
+            },
+            {
+                "id": 8,
+                "src": "/Images/servicesImg/service7.jpg",
+                "title": "Customs Services", 
+                "description": "All types of customs broker services, air cargo services, sea cargo services, cargo packaging, storage in silos, cold storage, general warehousing, containers loading & unloading services, shipping lines agents, insurance services.",
+                "buttonText": "Read More",
+                "url": "customs-services"
+            },
+            {
+                "id": 9,
+                "src": "/Images/servicesImg/service8.jpg",
+                "title": "Cargo Services",
+                "description": "All types of customs clearance transactions , Shipping services, Du and Etisalat Services , Insurance services.",
+                "buttonText": "Read More",
+                "url": "cargo-services"
+            },
+            {
+                "id": 10,
+                "src": "/Images/servicesImg/service10.jpg",
+                "title": "Citizenship & Immigration Services",
+                "description": "Offer citizenship and immigration services to persons interested in obtaining residency and citizenship by investment programs to the many countries.",
+                "buttonText": "Read More",
+                "url": "citizenship-and-immigration-services"
+            }
+        ]
+    },
+    "ar": {
+        "services": [
+            {
+                "id": 1,
+                "src": "/Images/servicesImg/service3.jpg",
+                "title": "خدمات رجال الأعمال",
+                "description": "نقوم بتقديم خدمة لرجال الأعمال من خلال الموقع الإلكتروني للشركة وذلك للإجابة عن أسئلتهم واستفساراتهم المختلفة في كافة المجالات. خدمات إنجاز المعاملات من السفارات المتواجدة على أرض الدولة. خدمات تنظيم المؤتمرات والندوات خدمات متابعة شركات المواطنين في الدوائر الحكومية والشبه حكومية خدمات ايجاري خدمات الهجرة خدمات الدائرة الاقتصادية خدمات بلدية دبي خدمات متابعة معاملات المنطقة الحرة خدمات فتح حسابات بنكية للشركات خدمات استقدام اليد العاملة للشركات تنظيم عقود شركات للمواطنين تأمين استقدام خادمات للمواطنين خدمات الوسيط خدمات تسهيل ترجمة قانونية خدمات دائرة الأراضي والأملاك  خدمات غرفة تجارة دبي خدمات المراسلات خدمات تحويل شركات خدمات متابعة أعمال للمواطنين في المحاكم دبي خدمات التأمين الشامل للمواطنين.",
+                "buttonText": "اقرأ المزيد",
+                "url": "businessmen-services"
+            },
+            {
+                "id": 2,
+                "src": "/Images/servicesImg/service1.jpg",
+                "title": "خدمات العقارات",
+                "description": "تقديم وساطة عقارية موثوقة وشاملة, تقديم استشارات متخصصة لتلبية احتياجاتك العقارية, مساعدة في البحث عن عقارات تتناسب مع ميزانيتك ومتطلباتك, تسهيل إجراءات البيع والشراء لضمان تجربة سلسة وموثوقة",
+                "buttonText": "اقرأ المزيد",
+                "url": "real-estate-services"
+            },
+            {
+                "id": 3,
+                "src": "/Images/servicesImg/service2.jpg",
+                "title": "خدمات المواقع الإلكترونية",
+                "description": "تصميم مواقع إلكترونية جذابة وسهلة الاستخدام تلبي احتياجاتك, إنشاء هويات بصرية مبتكرة تعكس علامتك التجارية, تحسين تجربة المستخدم لضمان سهولة التصفح والتفاعل.",
+                "buttonText": "اقرأ المزيد",
+                "url": "website-services"
+            },
+            {
+                "id": 4,
+                "src": "/Images/servicesImg/service9.jpg",
+                "title": "خدمات الطباعة",
+                "description": "خدمات الطباعة بكافة أنواعها العادية والكومبيوترية خدمات مطبوعات اعلانية والمطبوعات الخاصة بالشركات بما فيها الأختام خدمات طباعة نظام العمل والعمال والهجرة والجوازات طباعة هويات الامارات ، اقامات تجديد جوازات المواطنين - طباعة نماذج تجديد السيارات خدمات طباعة عقود الشراكة وتصديقها خدمات النسخ بكافة أنواعها بما في ذلك خرائط شركات المقاولات.",
+                "buttonText": "اقرأ المزيد",
+                "url": "typing-services"  
+            },
+            {
+                "id": 5,
+                "src": "/Images/servicesImg/service4.jpg",
+                "title": "خدمات السياحة",
+                "description": "خدمات تأشيرات السياحية ،عمل التأشيرات اللازمة لرجال الأعمال ، تأمين سيارات الليموزين من وإلى المطار ،حجز الفنادق والشقق الفندقية ،تأجير السيارات السياحية ، حجوزات السفاري والمغامرات ،خدمات تأشيرات للمواطنين سياحية ،تأمين تذاكر سفر لجميع الجهات السياحية للمواطنين ،كافة الخدمات الخاصة بدائرة السياحة ، خدمات مالية متطورة.",
+                "buttonText": "اقرأ المزيد",
+                "url": "tourism-services"
+            },
+            {
+                "id": 6,
+                "src": "/Images/servicesImg/service5.jpg",
+                "title": "الخدمات المالية",
+                "description": "التدقيق المحاسبي القانوني. التدقيق المحاسبي الداخل المحاسبة الشهرية التدقيق والمراقبة المحاسبية  انظمة محاسبية متطورة استشارة إنشاء شركات المناطق الحرة خدمات تأمين.",
+                "buttonText": "اقرأ المزيد",
+                "url": "financial-services"
+            },
+            {
+                "id": 7,
+                "src": "/Images/servicesImg/service6.jpeg",
+                "title": "الاستشارات",
+                "description": "استشارات تطوير المولرد البشرية. محاسبة الكميات استطلاع وبحوث الاسواق دراسة جدوى المشاريع  استشارات إنشاء الشركات تحليل الأنظمة مراجعة النظم الداخيلة.",
+                "buttonText": "اقرأ المزيد",
+                "url": "consultation-services"
+            },
+            {
+                "id": 8,
+                "src": "/Images/servicesImg/service7.jpg",
+                "title": "الخدمات الجمركية",
+                "description": "تخليص كافة أنواع المعاملات الجمركية خدمات الشحن البحري للبضائع خدمات الشحن الجوي للبضائع خدمات التأمين خدمات حزم البضائع التخزين في صوامع التخزين المبرد التخزين في مخازن عامة.",
+                "buttonText": "اقرأ المزيد",
+                "url": "customs-services"
+            },
+            {
+                "id": 9,
+                "src": "/Images/servicesImg/service8.jpg",
+                "title": "خدمات الشحن",
+                "description": "خدمات تخليص كافة أنواع المعاملات الجمركية خدمات الشحن خدمات دو والأتصالات خدمات تأمين.",
+                "buttonText": "اقرأ المزيد",
+                "url": "cargo-services"
+            },
+            {
+                "id": 10,
+                "src": "/Images/servicesImg/service10.jpg",
+                "title": "خدمات الجنسية والهجرة",
+                "description": "تقديم خدمات المواطنة والهجرة للأشخاص المهتمين بالحصول على الإقامة والمواطنة عن طريق برامج الاستثمار الى العديد من البلدان.",
+                "buttonText": "اقرأ المزيد",
+                "url": "citizenship-and-immigration-services"
+            }
+        ]
+    }
+}
+

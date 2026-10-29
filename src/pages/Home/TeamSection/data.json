@@ -1,0 +1,28 @@
+{
+    "teamMembers": [
+      {
+        "id": 1,
+        "image": "/Images/JalalOmar1.jpeg"
+      },
+      {
+        "id": 2,
+        "image": "/Images/TeamMembers.jpeg"
+      },
+      {
+        "id": 3,
+        "image": "/Images/JalalOmar2.jpeg"
+      },
+      {
+        "id": 4,
+        "image": "/Images/JalalOmar3.jpg"
+      },
+      {
+        "id": 5,
+        "image": "/Images/JalalOmar4.jpg"
+      },
+      {
+        "id": 6,
+        "image": "/Images/JalalOmar5.jpg"
+      }
+    ]
+  }
